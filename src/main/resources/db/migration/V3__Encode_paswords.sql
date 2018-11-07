@@ -1,0 +1,1 @@
+UPDATE usr set password='$2a$08$SPMUFYuNznD72SQ..fPPBOSVLeInzuiUvO.H9Ak8msdoJXPZz4E3S';
